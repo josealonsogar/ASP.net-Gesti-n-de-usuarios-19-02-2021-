@@ -10,7 +10,7 @@
 namespace _190221CursoLuckia {
     
     
-    public partial class _Default {
+    public partial class ListaUsuarios {
         
         /// <summary>
         /// Control GridView1.
